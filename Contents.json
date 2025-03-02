@@ -1,0 +1,127 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "eX5Yq4Hkb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "eX5Yq4Hkb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ねむい\.\.\.",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		}
+	],
+	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "fb8ab111bad13e61dbbedb3a572c764d",
+				"Address" : "Q23LlzIjc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "カーソルを合わせる",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		},
+		{
+			"Main" : {
+				"Hash" : "b44cd8959564ccdba7574068252ef204",
+				"Address" : "yyFp70JF_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "daf47017a354481f1b725d86ea52dc26",
+				"Address" : "yyFp70JF_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "マウスで選択",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		}
+	],
+	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "b7565d78d11745a64b14c27ee1515e7e",
+				"Address" : "Genkou_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "現行犯です",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		},
+		{
+			"Plate" : {
+				"Hash" : "7c807a17a48ba3617ae899f6cff22973",
+				"Address" : "Jester_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "吊ってもいいよ",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		},
+		{
+			"Plate" : {
+				"Hash" : "d65e0d090d2568c9677a906dbecbc387",
+				"Address" : "Asetteru_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "焦ってる\?",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		},
+		{
+			"Plate" : {
+				"Hash" : "dd27afbb08ae10d320461b6ef6cb44f1",
+				"Address" : "Raidar_line_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "レイダーキル",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		},
+		{
+			"Adaptive" : {
+				"Hash" : "85df8024893803fa8f9352f9ee761b4d",
+				"Address" : "Player_Color_Adaptive.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "Player_Color_Nameplate",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		}
+	],
+	"Packages" : [
+		{
+			"Package" : "Tabasco Cosmetics",
+			"Format" : "Tabasco Cosmetics",
+			"Priority" : 3
+		}
+	]
+}
