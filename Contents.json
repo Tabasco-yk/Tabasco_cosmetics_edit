@@ -4,12 +4,12 @@
 		{
 			"Main" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "eX5Yq4Hkb_Main.png",
+				"Address" : "Sleepy_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "eX5Yq4Hkb_Climb.png",
+				"Address" : "Sleepy_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -27,7 +27,7 @@
 		{
 			"Main" : {
 				"Hash" : "fb8ab111bad13e61dbbedb3a572c764d",
-				"Address" : "Q23LlzIjc_Main.png",
+				"Address" : "Mouse.png",
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
@@ -42,12 +42,12 @@
 		{
 			"Main" : {
 				"Hash" : "b44cd8959564ccdba7574068252ef204",
-				"Address" : "yyFp70JF_Main.png",
+				"Address" : "Select_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "daf47017a354481f1b725d86ea52dc26",
-				"Address" : "yyFp70JF_Climb.png",
+				"Address" : "Select_Climb.png",
 				"ExIsFront" : False
 			},
 			"Adaptive" : False,
